@@ -42,5 +42,4 @@ int index(string *s,string *t,int pos)
         return 0;
     }
 }
-}
 ```
