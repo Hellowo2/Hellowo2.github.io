@@ -8,7 +8,7 @@ tags: c语言 BruteForce
 ---
 ### 我是沙雕
 ## 我是沙雕
-```C
+```c
 int index(string *s,string *t,int pos)
 {
     int i,j;

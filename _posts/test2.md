@@ -8,7 +8,7 @@ tags: c语言 BruteForce
 ---
 ### 我是沙雕
 ## 我是沙雕
-```C
+```c
 #include<stdio.h>
 #include<malloc.h>
 #include<stdlib.h>
